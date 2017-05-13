@@ -1,0 +1,15 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/noaner/header-parser",
+  "author": "noaner <noahbweiner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "accept-language-parser": "^1.4.0",
+    "add": "^2.0.6",
+    "express": "^4.15.2",
+    "ua-parser-js": "^0.7.12",
+    "yarn": "^0.24.4"
+  }
+}
